@@ -1,0 +1,12 @@
+{
+  "name": "typescript_concepts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "devDependencies": {
+    "typescript": "^5.0.3"
+  }
+}
